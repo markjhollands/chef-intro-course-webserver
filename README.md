@@ -22,4 +22,5 @@ Ohai is used to get system information. You can run the `ohai` command from the 
 
 ## Notes:
 
+Instructor version of code: https://github.com/anthonygrees/webserver_poc
 Nice equivilent Microsoft example: https://github.com/anthonygrees/myiis
