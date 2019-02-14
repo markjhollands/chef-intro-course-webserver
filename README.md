@@ -4,18 +4,21 @@ TODO: Enter the cookbook description here.
 
 ## Generate
 
-Do not create attributes, templates, etc. directories. Instead use *chef generate*, e.g. *chef generate attribute default*
+Do not create attributes, templates, etc. manually. Instead use `chef generate`, e.g. `chef generate template index.html` or `chef generate attribute default`
 
 ## Kitchen
 
 Kitchen is used to test. Useful commands:
-*kitchen* create
-*kitchen* converge
-*kitchen* verify
+
+```
+kitchen create
+kitchen converge
+kitchen verify
+```
 
 ## Ohai
 
-Ohai is used to get system information. You can run the *ohai* command from the CLI when Chef DK is installed.
+Ohai is used to get system information. You can run the `ohai` command from the CLI when Chef DK is installed.
 
 ## Notes:
 
