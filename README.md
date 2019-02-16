@@ -1,4 +1,6 @@
-# webserver
+# chef-intro-course-webserver
+
+This project formed part of an on-site course on how to use Chef, Kitchen and Inspec.
 
 TODO: Enter the cookbook description here.
 
